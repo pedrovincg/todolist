@@ -1,1 +1,1 @@
-print('My first web application')
+print('My first web app')
